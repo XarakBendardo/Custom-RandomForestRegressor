@@ -1,0 +1,122 @@
+Number of rows: 4746
+
+BHK description:
+count    4746.000000
+mean        2.083860
+std         0.832256
+min         1.000000
+25%         2.000000
+50%         2.000000
+75%         3.000000
+max         6.000000
+Name: BHK, dtype: float64
+null values: 0
+empty values: 0
+
+Rent description:
+count    4.746000e+03
+mean     3.499345e+04
+std      7.810641e+04
+min      1.200000e+03
+25%      1.000000e+04
+50%      1.600000e+04
+75%      3.300000e+04
+max      3.500000e+06
+Name: Rent, dtype: float64
+null values: 0
+empty values: 0
+
+Size description:
+count    4746.000000
+mean      967.490729
+std       634.202328
+min        10.000000
+25%       550.000000
+50%       850.000000
+75%      1200.000000
+max      8000.000000
+Name: Size, dtype: float64
+null values: 0
+empty values: 0
+
+Floor description:
+count           4746
+unique           480
+top       1 out of 2
+freq             379
+Name: Floor, dtype: object
+null values: 0
+empty values: 0
+
+Area Type description:
+count           4746
+unique             3
+top       Super Area
+freq            2446
+Name: Area Type, dtype: object
+null values: 0
+empty values: 0
+unique values: ['Super Area' 'Carpet Area' 'Built Area']
+
+Area Locality description:
+count            4746
+unique           2235
+top       Bandra West
+freq               37
+Name: Area Locality, dtype: object
+null values: 0
+empty values: 0
+
+City description:
+count       4746
+unique         6
+top       Mumbai
+freq         972
+Name: City, dtype: object
+null values: 0
+empty values: 0
+unique values: ['Kolkata' 'Mumbai' 'Bangalore' 'Delhi' 'Chennai' 'Hyderabad']
+
+Furnishing Status description:
+count               4746
+unique                 3
+top       Semi-Furnished
+freq                2251
+Name: Furnishing Status, dtype: object
+null values: 0
+empty values: 0
+unique values: ['Unfurnished' 'Semi-Furnished' 'Furnished']
+
+Tenant Preferred description:
+count                 4746
+unique                   3
+top       Bachelors/Family
+freq                  3444
+Name: Tenant Preferred, dtype: object
+null values: 0
+empty values: 0
+unique values: ['Bachelors/Family' 'Bachelors' 'Family']
+
+Bathroom description:
+count    4746.000000
+mean        1.965866
+std         0.884532
+min         1.000000
+25%         1.000000
+50%         2.000000
+75%         2.000000
+max        10.000000
+Name: Bathroom, dtype: float64
+null values: 0
+empty values: 0
+
+Point of Contact description:
+count              4746
+unique                3
+top       Contact Owner
+freq               3216
+Name: Point of Contact, dtype: object
+null values: 0
+empty values: 0
+unique values: ['Contact Owner' 'Contact Agent' 'Contact Builder']
+
